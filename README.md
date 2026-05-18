@@ -3,7 +3,7 @@
 > **CMPE 257 — Machine Learning, San José State University**
 > Team: Ekant Kapgate, Saransh Soni, Vineet Malewar, Yashashav Devalapalli Kamalraj
 > Public repo: https://github.com/saransh-debugs/CMPE_257_Final_Project
-> Final report: [`report/final_report.pdf`](report/report.pdf) (30 pages)
+> Final report: [`report/report.pdf`](report/report.pdf) (30 pages)
 
 A controlled, tier-stratified study of land-use classification on EuroSAT RGB. Four model families compared on a single fixed seed-42 stratified split, with two systematic ablations on the shallow CNN.
 
@@ -141,7 +141,7 @@ Falls back to sklearn (CPU) if cuML unavailable; falls back to manual augmentati
 ### 1. Install
 
 ```bash
-git clone https://github.com/yashashav-dk/cmpe257-eurosat.git
+git clone https://github.com/saransh-debugs/CMPE_257_Final_Project.git
 cd cmpe257-eurosat
 python -m venv .venv && source .venv/bin/activate   # or conda
 pip install torch torchvision torchgeo scikit-learn opencv-python \
@@ -289,7 +289,7 @@ If you use this code or report in your work, please cite:
   author = {Kapgate, Ekant and Soni, Saransh and Malewar, Vineet and Devalapalli Kamalraj, Yashashav},
   year   = {2026},
   note   = {CMPE 257 course project, San Jos\'e State University},
-  url    = {https://github.com/yashashav-dk/cmpe257-eurosat}
+  url    = {https://github.com/saransh-debugs/CMPE_257_Final_Project}
 }
 ```
 
