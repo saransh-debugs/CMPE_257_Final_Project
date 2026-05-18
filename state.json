@@ -58,7 +58,7 @@
   "session_artifacts_complete": true,
   "report_pages": 30,
   "report_pdf_kb": 1374.2,
-  "github_repo_url": "https://github.com/yashashav-dk/cmpe257-eurosat",
+  "github_repo_url": "https://github.com/saransh-debugs/CMPE_257_Final_Project",
   "github_visibility": "PUBLIC",
   "reproduction_notebook": "notebooks/cmpe257_eurosat_reproduction.ipynb",
   "license": "MIT",
