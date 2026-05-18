@@ -3,7 +3,7 @@
 > **CMPE 257 — Machine Learning, San José State University**
 > Team: Ekant Kapgate, Saransh Soni, Vineet Malewar, Yashashav Devalapalli Kamalraj
 > Public repo: https://github.com/saransh-debugs/CMPE_257_Final_Project
-> Final report: [`report/final_report.pdf`](report/final_report.pdf) (30 pages)
+> Final report: [`report/final_report.pdf`](report/report.pdf) (30 pages)
 
 A controlled, tier-stratified study of land-use classification on EuroSAT RGB. Four model families compared on a single fixed seed-42 stratified split, with two systematic ablations on the shallow CNN.
 
